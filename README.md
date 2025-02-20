@@ -1,2 +1,2 @@
 # KiTKAT
-My personal webs
+Learning GitHub is fun.
